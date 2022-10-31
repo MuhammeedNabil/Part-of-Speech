@@ -1,0 +1,14 @@
+.border{
+    border-width: 50%;
+    border: 3px solid black;
+    padding: 20px !important;
+    border-radius: 25%;
+}
+.icons{
+    font-size: 3.5rem !important;
+}
+.studyContainer:hover ,.border:hover{
+color: rgb(206, 206, 206);
+border-color: rgb(206, 206, 206);
+transition: all ease-in-out 0.9s;
+}
